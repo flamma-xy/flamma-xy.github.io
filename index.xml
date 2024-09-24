@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>xy&#39;bg</title>
+    <link>https://flamma-xy.github.io/</link>
+    <description>Recent content on xy&#39;bg</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Copyright 2024, flamma</copyright>
+    <lastBuildDate>Tue, 24 Sep 2024 16:24:55 +0900</lastBuildDate>
+    <atom:link href="https://flamma-xy.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://flamma-xy.github.io/post/test/</link>
+      <pubDate>Tue, 24 Sep 2024 16:24:55 +0900</pubDate>
+      <guid>https://flamma-xy.github.io/post/test/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Test</title>
+      <link>https://flamma-xy.github.io/post/test2/</link>
+      <pubDate>Tue, 24 Sep 2024 16:24:55 +0900</pubDate>
+      <guid>https://flamma-xy.github.io/post/test2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Test</title>
+      <link>https://flamma-xy.github.io/post/test3/</link>
+      <pubDate>Tue, 24 Sep 2024 16:24:55 +0900</pubDate>
+      <guid>https://flamma-xy.github.io/post/test3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Test</title>
+      <link>https://flamma-xy.github.io/post/test4/</link>
+      <pubDate>Tue, 24 Sep 2024 16:24:55 +0900</pubDate>
+      <guid>https://flamma-xy.github.io/post/test4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://flamma-xy.github.io/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://flamma-xy.github.io/about/</guid>
+      <description>&lt;hr&gt;</description>
+    </item>
+  </channel>
+</rss>

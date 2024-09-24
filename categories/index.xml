@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on xy&#39;bg</title>
+    <link>https://flamma-xy.github.io/categories/</link>
+    <description>Recent content in Categories on xy&#39;bg</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Copyright 2024, flamma</copyright>
+    <lastBuildDate>Tue, 24 Sep 2024 16:24:55 +0900</lastBuildDate>
+    <atom:link href="https://flamma-xy.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Four</title>
+      <link>https://flamma-xy.github.io/categories/four/</link>
+      <pubDate>Tue, 24 Sep 2024 16:24:55 +0900</pubDate>
+      <guid>https://flamma-xy.github.io/categories/four/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>One</title>
+      <link>https://flamma-xy.github.io/categories/one/</link>
+      <pubDate>Tue, 24 Sep 2024 16:24:55 +0900</pubDate>
+      <guid>https://flamma-xy.github.io/categories/one/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Three</title>
+      <link>https://flamma-xy.github.io/categories/three/</link>
+      <pubDate>Tue, 24 Sep 2024 16:24:55 +0900</pubDate>
+      <guid>https://flamma-xy.github.io/categories/three/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Two</title>
+      <link>https://flamma-xy.github.io/categories/two/</link>
+      <pubDate>Tue, 24 Sep 2024 16:24:55 +0900</pubDate>
+      <guid>https://flamma-xy.github.io/categories/two/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
